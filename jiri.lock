@@ -40,6 +40,16 @@
         "instance_id": "XiBHLTa8HHj9lYwC-ArymS75s792s0_ANNvLOfsILqMC"
     },
     {
+        "package": "fuchsia/third_party/gcc/linux-amd64",
+        "version": "git_revision:282dedf4408f6e373de6caec958f5ba870c10b30,6488f1e65adf232d1cfdded7f5fb1451f27eee78",
+        "instance_id": "h-VfuaS22bZELGNXLFcvPAwLfClahLO5jAnqIjlmsq0C"
+    },
+    {
+        "package": "fuchsia/third_party/gcc/linux-arm64",
+        "version": "git_revision:282dedf4408f6e373de6caec958f5ba870c10b30,6488f1e65adf232d1cfdded7f5fb1451f27eee78",
+        "instance_id": "tiM-m2Nqv-npK1OeFb9B1TzrZXVl1NypyflWmFQkscIC"
+    },
+    {
         "package": "fuchsia/third_party/ninja/linux-amd64",
         "version": "git_revision:a06e6b35bdd507066f2b03e924464c8ca453860c",
         "instance_id": "TDGaUeACC2Y-iC38CWQVTdkLv-74bmXzez4dAGrcUMUC"
