@@ -95,6 +95,11 @@
         "instance_id": "2wB62c2k76n_MwKG4H5AFMQlTz90MYrgPCgvGF8TkuoC"
     },
     {
+        "package": "fuchsia/third_party/sysroot/linux",
+        "version": "git_revision:cf821ee2dbc2ed61dfc25a814dcc8d090f9fda03",
+        "instance_id": "dCkoVcYlgGIP_pmR61ZMIrSDgdrV81BtxcPeTRuyqlUC"
+    },
+    {
         "package": "fuchsia/tools/buildidtool/linux-amd64",
         "version": "git_revision:60009530a614e2c7b5cdfdcbc707932e9e5a860d",
         "instance_id": "FIFgJ238MCawqe2ug-TBbFshxB4sZi3bv6kHwyu5GAQC"
