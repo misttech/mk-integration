@@ -2,6 +2,7 @@
 <manifest>
   <imports>
     <localimport file="prebuilts"/>
+    <localimport file="third_party"/>
   </imports>
   <projects>
     <project name="mist-os"

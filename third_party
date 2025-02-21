@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <imports>
+  </imports>
+  <projects>
+    <!-- Third Party -->
+    <project name="boringssl"
+             gitsubmoduleof="fuchsia"
+             path="third_party/boringssl/src"
+             remote="https://boringssl.googlesource.com/boringssl"
+             gerrithost="https://boringssl-review.googlesource.com"
+             revision="a4c3f8de4406c2382e43e88a638882fb1a32da32"/>
+  </projects>
+</manifest>
