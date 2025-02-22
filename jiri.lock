@@ -50,6 +50,30 @@
         "instance_id": "tiM-m2Nqv-npK1OeFb9B1TzrZXVl1NypyflWmFQkscIC"
     },
     {
+        "package": "fuchsia/third_party/jq/linux-amd64",
+        "path": "prebuilt/third_party/jq/{{.OS}}-{{.Arch}}",
+        "version": "git_revision:a17dd3248a666d01be75f6b16be37e80e20b0954",
+        "instance_id": "tN0CPJbV2YwiOaYednM1g02wDkO-rJAKRCuRfwg6UKkC"
+    },
+    {
+        "package": "fuchsia/third_party/jq/linux-arm64",
+        "path": "prebuilt/third_party/jq/{{.OS}}-{{.Arch}}",
+        "version": "git_revision:a17dd3248a666d01be75f6b16be37e80e20b0954",
+        "instance_id": "B99d5H538hQqnU04lmWivDAc05SEgDkZIBH8oaeqyWcC"
+    },
+    {
+        "package": "fuchsia/third_party/jq/mac-amd64",
+        "path": "prebuilt/third_party/jq/{{.OS}}-{{.Arch}}",
+        "version": "git_revision:a17dd3248a666d01be75f6b16be37e80e20b0954",
+        "instance_id": "o9A6AYztINFwkUQ2gfaWFmnM9VseP0yS3kYObZkSMvkC"
+    },
+    {
+        "package": "fuchsia/third_party/jq/mac-arm64",
+        "path": "prebuilt/third_party/jq/mac-arm64",
+        "version": "git_revision:949d38e6dc7330712b50697d7fe833eec85dede1",
+        "instance_id": "CbkoHklektIuMV0aYqOhtQHj5ABcnnEUMLFJWMWCi-4C"
+    },
+    {
         "package": "fuchsia/third_party/ninja/linux-amd64",
         "version": "git_revision:a06e6b35bdd507066f2b03e924464c8ca453860c",
         "instance_id": "TDGaUeACC2Y-iC38CWQVTdkLv-74bmXzez4dAGrcUMUC"
