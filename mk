@@ -5,10 +5,6 @@
     <localimport file="third_party"/>
   </imports>
   <projects>
-    <project name="mist-os"
-             gitsubmodules="true"
-             path="."
-             remote="https://github.com/misttech/micro-kernel.git"/>
   </projects>
   <hooks>
   </hooks>
