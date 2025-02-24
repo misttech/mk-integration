@@ -5,25 +5,30 @@
   <projects>
     <!-- Third Party -->
     <project name="boringssl"
-             gitsubmoduleof="fuchsia"
+             gitsubmoduleof="mk"
              path="third_party/boringssl/src"
              remote="https://boringssl.googlesource.com/boringssl"
              gerrithost="https://boringssl-review.googlesource.com"
              revision="e056f59c7dfdcf891af03bc7900c946ac485c78f"/>
+    <project name="third_party/lk"
+             gitsubmoduleof="mk"
+             path="third_party/lk"
+             remote="https://github.com/misttech/lk"
+             revision="3543217461c9717b2a70b948dad9f23115c15c01"/>
     <project name="third_party/lz4"
-             gitsubmoduleof="fuchsia"
+             gitsubmoduleof="mk"
              path="third_party/lz4"
              remote="https://fuchsia.googlesource.com/third_party/lz4"
              gerrithost="https://fuchsia-review.googlesource.com"
              revision="5ff839680134437dbf4678f3d0c7b371d84f4964"/>
     <project name="third_party/rapidjson"
-             gitsubmoduleof="fuchsia"
+             gitsubmoduleof="mk"
              path="third_party/rapidjson"
              remote="https://fuchsia.googlesource.com/third_party/rapidjson"
              revision="cddb2ae39cf834b70327a0cf12416414120d5479"
              gerrithost="https://fuchsia-review.googlesource.com"/>
     <project name="third_party/zstd"
-             gitsubmoduleof="fuchsia"
+             gitsubmoduleof="mk"
              path="third_party/zstd/src"
              remote="https://fuchsia.googlesource.com/third_party/zstd"
              gerrithost="https://fuchsia-review.googlesource.com"
