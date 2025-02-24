@@ -9,7 +9,7 @@
              path="third_party/boringssl/src"
              remote="https://boringssl.googlesource.com/boringssl"
              gerrithost="https://boringssl-review.googlesource.com"
-             revision="a4c3f8de4406c2382e43e88a638882fb1a32da32"/>
+             revision="e056f59c7dfdcf891af03bc7900c946ac485c78f"/>
     <project name="third_party/lz4"
              gitsubmoduleof="fuchsia"
              path="third_party/lz4"
