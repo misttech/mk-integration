@@ -14,7 +14,7 @@
              gitsubmoduleof="mk"
              path="third_party/lk"
              remote="https://github.com/misttech/lk"
-             revision="3543217461c9717b2a70b948dad9f23115c15c01"/>
+             revision="c50a093d56ed6e813f9b78afe26b1c783219c92b"/>
     <project name="third_party/lz4"
              gitsubmoduleof="mk"
              path="third_party/lz4"
