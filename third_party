@@ -4,6 +4,12 @@
   </imports>
   <projects>
     <!-- Third Party -->
+    <project name="third_party/acpica"
+             gitsubmoduleof="fuchsia"
+             path="third_party/acpica"
+             remote="https://fuchsia.googlesource.com/third_party/acpica"
+             gerrithost="https://fuchsia-review.googlesource.com"
+             revision="d1ff1d1e73250faf59c631324649af8976df8a1e"/>
     <project name="boringssl"
              gitsubmoduleof="mk"
              path="third_party/boringssl/src"
